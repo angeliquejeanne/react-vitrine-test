@@ -42,7 +42,7 @@ const Home = () => {
             <motion.h1 drag onDragEnd   dragConstraints={{ left: -250, right: 950, top: -200, bottom: 250 }}>
               FS AGENCY
             </motion.h1>
-            <motion.h2 drag onDragEnd dragConstraints={{ left: -250, right: 1250, top: -200, bottom: 250 }}>
+            <motion.h2 drag onDragEnd dragConstraints={{ left: -250, right: 950, top: -200, bottom: 250 }}>
               <DynamicText />
             </motion.h2>
           </div>

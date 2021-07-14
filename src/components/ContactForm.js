@@ -112,7 +112,7 @@ const ContactForm = () => {
           id="company"
           name="company"
           onChange={(e) => setCompany(e.target.value)}
-          placeholder="société"
+          placeholder="professionnel ou particulier"
           value={company}
         />
         <input
